@@ -4,6 +4,7 @@
     {
         GET,
         POST,
+        EDIT,
         DELETE
     }
 }
